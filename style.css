@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+
+}
+body {
+    font: normal 15pt Arial;
+    background-color: rgb(106, 161, 197);
+}
+header{
+    
+   text-align: center;
+    width: 100%;
+    color: white;
+    font-size: 2.5rem;
+}
+
+section { 
+    margin: 15px auto;
+    background-color: white;
+    height: 500px;
+    width: 800px;
+    border-radius: 25px;
+    overflow: hidden;
+    
+    
+}
+
+.inp {
+    width: 100%;
+    padding: 10px;
+    position: relative;
+    height: 150px;
+}
+
+.p2 {
+    margin-top: 5px;
+}
+
+input#btn{
+    margin-top: 8px;
+}
+
+
+img {
+    
+    display: block;
+    margin-left: 280px; 
+    margin-top: 25px;
+} 
